@@ -6,8 +6,6 @@ It integrates with a Prayer Times API to fetch real-time data and provides usefu
 - 📍 Location detection (GPS or manual input)  
 - 🕰 Countdown to the next prayer  
 - 📅 Monthly timetable view  
-- ⚙️ Multiple calculation methods & madhab options  
-- 🌙 Light/Dark mode themes  
-- 🔔 Prayer time notifications  
+- ⚙️ Multiple calculation methods & madhab options 
 
 The app is designed with a clean, user-friendly interface and works seamlessly across devices.
