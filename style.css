@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-transform: capitalize;
+}
+
+body {
+    background: linear-gradient(to right, #150e5c, #02012b);
+    font-family: aAra Hamah 1964;
+}
+a:hover{
+    cursor: pointer;
+}
+#city-name {
+    font-family: Farsi Simple;
+}
